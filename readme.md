@@ -1,3 +1,10 @@
+# This repository has moved!
+
+This project is now maintained in a new repository: [https://github.com/iamkhalidhussein/resource-fyi](https://github.com/iamkhalidhussein/resource-fyi)
+
+Please visit the new repository for the latest updates.
+
+
 # Product Discovery Platform - resource fyi
 
 Welcome to the **Product Discovery Platform Backend**. This is the server-side part of a web application inspired by [Product Hunt](https://resource-fyi.web.app), where users can submit, vote, and comment on products.
